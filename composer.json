@@ -1,0 +1,16 @@
+{
+    "name": "pasya/onesender",
+    "description": "Integration to your onesender instance",
+    "autoload": {
+        "psr-4": {
+            "Pasya\\OneSender\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "M Ali",
+            "email": "onesender.id@gmail.com"
+        }
+    ],
+    "require": {}
+}
